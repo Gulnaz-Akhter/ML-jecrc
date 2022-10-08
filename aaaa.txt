@@ -1,0 +1,11 @@
+find the longest movie 
+no. of mvies with ten star rating
+how many industreies are there 
+least like comedy name
+longest english movie
+what is the joner of interstaler movie
+what is the average duration  each trailor
+average rating of movie industry type 
+what is the average rating of each industry
+list down all the english movies with their respective ratings in decending order
+
